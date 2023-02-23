@@ -1,0 +1,62 @@
+:root {
+  /* fonts */
+  --font-nunito-sans: "Nunito Sans";
+  --font-be-vietnam-pro: "Be Vietnam Pro";
+  --font-inter: Inter;
+  --font-inherit: inherit;
+  --font-arial-rounded-mt-bold: "Arial Rounded MT Bold";
+  --font-jua: Jua;
+
+  /* font sizes */
+  --font-size-3xs: 13px;
+  --font-size-2xs: 15px;
+  --font-size-xs: 16px;
+  --font-size-sm: 18px;
+  --font-size-base: 20px;
+  --font-size-lg: 22px;
+  --font-size-xl: 24px;
+  --font-size-2xl: 25px;
+  --font-size-3xl: 36px;
+  --font-size-4xl: 40px;
+
+  /* Colors */
+  --color-lightgray: #ded2d9;
+  --color-white: #fff;
+  --color-crimson: #f24976;
+  --color-sienna: #884e4a;
+  --color-silver: #b6b6b6;
+  --color-rosybrown-100: #ca8b86;
+  --color-darkred: #8f0707;
+  --color-black: #000;
+  --color-whitesmoke: #eff1f2;
+  --color-lightcoral: rgba(246, 150, 150, 0.48);
+  --color-snow-100: #fffcfc;
+  --color-snow-200: #fbf5f3;
+  --color-darkgray: #acacac;
+  --color-lavenderblush-100: #ffeeed;
+  --color-lavenderblush-200: rgba(255, 238, 237, 0);
+  --color-red-100: #f61c1c;
+  --color-red-200: #f10d0d;
+  --color-red-300: #e90909;
+  --color-dimgray: #643c3c;
+  --color-darkslategray: #3a3333;
+  --color-tan: #b58d6a;
+
+  /* Gaps */
+  --gap-sm: 4px;
+  --gap-md: 8px;
+
+  /* Paddings */
+  --padding-2xs: 10px;
+  --padding-xs: 12px;
+  --padding-sm: 13px;
+  --padding-md: 20px;
+  --padding-lg: 27px;
+  --padding-xl: 29px;
+  --padding-2xl: 32px;
+
+  /* border radiuses */
+  --br-sm: 5px;
+  --br-md: 10px;
+  --br-lg: 25px;
+}
